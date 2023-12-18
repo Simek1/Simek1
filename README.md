@@ -21,7 +21,7 @@
   
 - Tools
 
-  ![Spyder](https://img.shields.io/badge/spyder-430E8C?style=flat&logo=spyder%20ide)
+  ![Spyder](https://img.shields.io/badge/Spyder-430E8C?style=flat&logo=spyder%20ide)
   ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-430E8C?style=flat&logo=visual%20studio%20code)
   ![Git](https://img.shields.io/badge/Git-430E8C?style=flat&logo=git)
   
