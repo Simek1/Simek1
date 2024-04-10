@@ -8,6 +8,7 @@
 - Languages
 
   ![Python](https://img.shields.io/badge/Python-430E8C?style=flat&logo=python)
+  ![C++](https://img.shields.io/badge/C++-430E8C?style=flat&logo=c%2B%2B)
   ![HTML5](https://img.shields.io/badge/HTML5-430E8C?style=flat&logo=html5)
   ![MySQL](https://img.shields.io/badge/MySQL-430E8C?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-430E8C?style=flat&logo=postgresql)
@@ -28,7 +29,6 @@
 
 - Curently learning
 
-  ![C++](https://img.shields.io/badge/C++-430E8C?style=flat&logo=c%2B%2B)
   ![Django](https://img.shields.io/badge/Django-430E8C?style=flat&logo=django)
   ![JavaScript](https://img.shields.io/badge/JavaScript-430E8C?style=flat&logo=javascript)
 
