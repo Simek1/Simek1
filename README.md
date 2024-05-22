@@ -29,6 +29,7 @@
 
 - Curently learning
 
+  ![Java](https://img.shields.io/badge/Java-430E8C?style=flat&logo=openjdk)
   ![Django](https://img.shields.io/badge/Django-430E8C?style=flat&logo=django)
   ![JavaScript](https://img.shields.io/badge/JavaScript-430E8C?style=flat&logo=javascript)
 
