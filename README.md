@@ -32,6 +32,7 @@
   ![Java](https://img.shields.io/badge/Java-430E8C?style=flat&logo=openjdk)
   ![Django](https://img.shields.io/badge/Django-430E8C?style=flat&logo=django)
   ![JavaScript](https://img.shields.io/badge/JavaScript-430E8C?style=flat&logo=javascript)
+  ![JavaScript](https://img.shields.io/badge/React-430E8C?style=flat&logo=react)
 
 <h2>My GitHub stats</h2>
 
