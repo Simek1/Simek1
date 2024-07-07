@@ -2,6 +2,7 @@
 
 - I have completed bioinformatics studies.
 - Currently, I am developing my programming skills and striving to expand my programming portfolio.
+- I am currently working on a web-based online game built with Django and React.
 
 <h2>My Skills</h2>
 
