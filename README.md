@@ -10,17 +10,28 @@
 
   ![Python](https://img.shields.io/badge/Python-430E8C?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/C++-430E8C?style=flat&logo=c%2B%2B)
-  ![HTML5](https://img.shields.io/badge/HTML5-430E8C?style=flat&logo=html5)
   ![MySQL](https://img.shields.io/badge/MySQL-430E8C?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-430E8C?style=flat&logo=postgresql)
-  ![PHP](https://img.shields.io/badge/PHP-430E8C?style=flat&logo=php)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-430E8C?style=flat&logo=javascript)
 
 - Data Analysis
 
   ![Pandas](https://img.shields.io/badge/Pandas-430E8C?style=flat&logo=pandas)
   ![NumPy](https://img.shields.io/badge/NumPy-430E8C?style=flat&logo=numpy)
   ![R](https://img.shields.io/badge/R-430E8C?style=flat&logo=r)
+
+- Web development
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript-430E8C?style=flat&logo=javascript)
+  ![React.js](https://img.shields.io/badge/React.js-430E8C?style=flat&logo=react)
+  ![HTML5](https://img.shields.io/badge/HTML5-430E8C?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/CSS-430E8C?style=flat&logo=css3)
+  ![Node.js](https://img.shields.io/badge/Node.js-430E8C?style=flat&logo=node.js)
+  ![PHP](https://img.shields.io/badge/PHP-430E8C?style=flat&logo=php)
+
+- Game development
+
+  ![Pygame](https://img.shields.io/badge/Pygame-430E8C?style=flat&logo=)
+  ![Phaser](https://img.shields.io/badge/Phaser-430E8C?style=flat&logo=)
   
 - Tools
 
@@ -33,7 +44,6 @@
 
   ![Java](https://img.shields.io/badge/Java-430E8C?style=flat&logo=openjdk)
   ![Django](https://img.shields.io/badge/Django-430E8C?style=flat&logo=django)
-  ![React](https://img.shields.io/badge/React-430E8C?style=flat&logo=react)
 
 <h2>My GitHub stats</h2>
 
