@@ -42,6 +42,8 @@
 
 - Curently learning
 
+  ![C#](https://img.shields.io/badge/C%23-430E8C?style=flat&logo=c)
+  ![Unity](https://img.shields.io/badge/Unity-430E8C?style=flat&logo=unity)
   ![Java](https://img.shields.io/badge/Java-430E8C?style=flat&logo=openjdk)
   ![Django](https://img.shields.io/badge/Django-430E8C?style=flat&logo=django)
 
