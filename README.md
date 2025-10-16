@@ -23,6 +23,7 @@
   
   ![JavaScript](https://img.shields.io/badge/JavaScript-430E8C?style=flat&logo=javascript)
   ![React.js](https://img.shields.io/badge/React.js-430E8C?style=flat&logo=react)
+  ![Django](https://img.shields.io/badge/Django-430E8C?style=flat&logo=django)
   ![HTML5](https://img.shields.io/badge/HTML5-430E8C?style=flat&logo=html5)
   ![CSS](https://img.shields.io/badge/CSS-430E8C?style=flat&logo=css3)
   ![Node.js](https://img.shields.io/badge/Node.js-430E8C?style=flat&logo=node.js)
@@ -45,7 +46,6 @@
   ![C#](https://img.shields.io/badge/C%23-430E8C?style=flat&logo=c)
   ![Unity](https://img.shields.io/badge/Unity-430E8C?style=flat&logo=unity)
   ![Java](https://img.shields.io/badge/Java-430E8C?style=flat&logo=openjdk)
-  ![Django](https://img.shields.io/badge/Django-430E8C?style=flat&logo=django)
 
 <h2>My GitHub stats</h2>
 
